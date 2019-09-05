@@ -1,0 +1,4 @@
+[
+    {"command": "tests_add_folder", "caption": "Tests: Add Folder to sublime"},
+    {"command": "tests_remove_folder", "caption": "Tests: Remove Folder from sublime"},
+]
